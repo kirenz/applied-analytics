@@ -33,9 +33,9 @@ Nr | Lecture | Topic | Slides
 08|L08_1_linear_regression_simple|Regression|[L08_1_linear_regression_simple.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L08_1_linear_regression_simple.pdf)  
 08|L08_2_linear_regression_multiple|Regression|[L08_2_linear_regression_multiple.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L08_2_linear_regression_multiple.pdf)  
 09|L09_1_logistic_regression|Classification|[L09_1_logistic_regression.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L09_1_logistic_regression.pdf)  
-09|L09_0_NA|Classification|NA
-09|L09_0_NA|Classification|NA
-09|L09_0_NA|Classification|NA
+09|L09_2_classification_intro_wolf|Classification| [L09_2_classification_intro_wolf.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L09_2_classification_intro_wolf.pdf)
+09|L09_3_classification_metrics|Classification|[L09_3_classification_metrics.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L09_3_classification_metrics.pdf)
+09|L09_4_classification_metrics_unbalanced|Classification|[L09_4_classification_metrics_unbalanced.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L09_4_classification_metrics_unbalanced.pdf)
 10|L10_1_dl_1_intro|Deep Learning|[L10_1_dl_1_intro.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L10_1_dl_1_intro.pdf)  
 11|L11_1_clustering|Clustering|[L11_1_clustering.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L11_1_clustering.pdf)  
 11|L11_2_clustering_k_means|Clustering|[L11_2_clustering_k_means.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L11_2_clustering_k_means.pdf)  
