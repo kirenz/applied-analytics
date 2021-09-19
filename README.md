@@ -8,8 +8,8 @@ Welcome to your course Applied Analytics!
 
 **Lectures**
 
-Nr | Lecture | Topic | Content | Slides
--- | -- | -- | -- | --
+Nr | Lecture | Topic | Slides 
+-- | -- | -- | -- 
 00|L00_1_welcome|Welcome|[L00_1_welcome.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides//Users/jankirenz/lectures/applied-analytics/slides/L00_1_welcome.pdf)  
 00|L00_2_organisatorisches|Organisatorisches|[L00_2_organisatorisches.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides//Users/jankirenz/lectures/applied-analytics/slides/L00_2_organisatorisches.pdf)  
 00|L00_3_dokumentation|Organisatorisches|[L00_3_dokumentation.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides//Users/jankirenz/lectures/applied-analytics/slides/L00_3_dokumentation.pdf)  
