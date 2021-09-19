@@ -1,12 +1,14 @@
 # Applied Analytics
 
-Welcome to your course Applied Analytics! 
-
-Hier finden Sie alle Vorlesungsunterlagen zu dem Kurs. Bitte beachten Sie, dass während des Semeseters weitere Inhalte bereitgestellt werden.
-
 ![](img/img.jpg)
 
+Welcome to your course Applied Analytics! 
 
+
+
+---
+
+**Python Notebooks**
 
 Lecture | Notebook | Link to GitHub | Colab Link 
 -- | -- | -- | --
