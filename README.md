@@ -1,5 +1,7 @@
 # Applied Analytics
 
-Herzlich willkommen zu dem Kurs Applied Data Analytics! Hier finden Sie alle Vorlesungsunterlagen zu dem Kurs. 
+Herzlich willkommen zu dem Kurs Applied Data Analytics! 
 
- 
+Hier finden Sie alle Vorlesungsunterlagen zu dem Kurs. Bitte beachten Sie, dass während des Semeseters weitere Inhalte bereitgestellt werden.
+
+![](img/img.jpg)
