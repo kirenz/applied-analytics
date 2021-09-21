@@ -75,8 +75,5 @@ L11_2_clustering_k_means|k_means|[GitHuB](https://github.com/kirenz/clustering/b
 L11_3_clustering_hierarchical|hierarchisch|[GitHuB](https://github.com/kirenz/clustering/blob/main/hierarchisch.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/clustering/blob/main/hierarchisch.ipynb)
 
 
----
-
-Photo by <a href="https://unsplash.com/@m_b_m?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">M. B. M.</a> on <a href="https://unsplash.com/s/photos/analytics?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+---  
 
