@@ -1,7 +1,7 @@
 ## Welcome to Applied Analytics
 
 
-**Introduction**
+### Introduction
 
 Nr | Lecture | Topic | Slides 
 -- | -- | -- | -- 
@@ -11,7 +11,7 @@ Nr | Lecture | Topic | Slides
 00|L00_4_recherche|Organisatorisches|[L00_4_recherche.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L00_4_recherche.pdf) 
 
 
-**Lectures**
+### Lectures
 
 Nr | Lecture | Topic | Slides 
 -- | -- | -- | -- 
@@ -49,9 +49,11 @@ Nr | Lecture | Topic | Slides
 -->
 
 
----
 
-**Python Notebooks**
+
+### Notebooks
+
+#### Data Exploration
 
 Lecture | Notebook | Link to GitHub | Colab Link 
 -- | -- | -- | --
@@ -88,6 +90,8 @@ L11_2_clustering_k_means|k_means|[GitHuB](https://github.com/kirenz/clustering/b
 L11_3_clustering_hierarchical|hierarchisch|[GitHuB](https://github.com/kirenz/clustering/blob/main/hierarchisch.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/clustering/blob/main/hierarchisch.ipynb)
 -->
 
+
+#### Models
 
 ---  
 
