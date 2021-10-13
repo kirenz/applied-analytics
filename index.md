@@ -61,7 +61,7 @@ L04_1_case_study_stents|stents|[GitHuB](https://github.com/kirenz/modern-statist
 L05_1_case_passwords|passwords|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)
 L05_2_exploring_categorical_data|contingency-table-bar-plot|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)
 L05_2_exploring_categorical_data|two-categorical-variables|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-2-two-categorical-variables.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-2-two-categorical-variables.ipynb)
-L05_2_exploring_categorical_data|row-column-proportions,|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-3-row-column-proportions,.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-3-row-column-proportions,.ipynb)
+L05_2_exploring_categorical_data|row-column-proportions|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-3-row-column-proportions,.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-3-row-column-proportions,.ipynb)
 
 
 <!--
