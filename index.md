@@ -1,11 +1,10 @@
 ## Welcome to Applied Analytics
 
 
-### Introduction
+### Course information
 
 Nr | Lecture | Topic | Slides 
 -- | -- | -- | -- 
-00|L00_1_welcome|Welcome|[L00_1_welcome.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L00_1_welcome.pdf)  
 00|L00_2_organisatorisches|Organisatorisches|[L00_2_organisatorisches.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L00_2_organisatorisches.pdf) 
 00|L00_3_dokumentation|Organisatorisches|[L00_3_dokumentation.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L00_3_dokumentation.pdf)  
 00|L00_4_recherche|Organisatorisches|[L00_4_recherche.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L00_4_recherche.pdf) 
@@ -13,28 +12,45 @@ Nr | Lecture | Topic | Slides
 
 ### Lectures
 
+#### Data science 
+
 Nr | Lecture | Topic | Slides 
 -- | -- | -- | -- 
 01|L01_1_analytics_intro|Introduction to data-driven decision making|[L01_1_analytics_intro.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L01_1_analytics_intro.pdf)  
 02|L02_1_dsl_intro|Data science lifecycle|[L02_1_dsl_intro.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L02_1_dsl_intro.pdf)  
 02|L02_2_dsl_plan|Data science lifecycle|[L02_2_dsl_plan.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L02_2_dsl_plan.pdf)  
 03|L03_1_data_management_intro|Data management and big data|[L03_1_data_management_intro.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L03_1_data_management_intro.pdf)  
+
+#### Data exploration 
+
+Nr | Lecture | Topic | Slides 
+-- | -- | -- | -- 
 04|L04_1_case_study_stents|First data analysis: case study stents|[L04_1_case_study_stents.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L04_1_case_study_stents.pdf)  
 04|L04_1_data_basics|Data basics|[L04_1_data_basics.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L04_1_data_basics.pdf)  
 05|L05_1_case_passwords|Exploratory data analysis: categorical data|[L05_1_case_passwords.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L05_1_case_passwords.pdf)  
 05|L05_2_exploring_categorical_data|Exploratory data analysis: categorical data|[L05_2_exploring_categorical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L05_2_exploring_categorical_data.pdf)  
+
 
 <!--
 05|L05_3_exploring_categorical_data|Exploratory data analysis: categorical data|[L05_3_exploring_categorical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L05_3_exploring_categorical_data.pdf)  
 06|L06_1_exploring_numerical_data|Exploratory data analysis: numerical data|[L06_1_exploring_numerical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L06_1_exploring_numerical_data.pdf)  
 06|L06_2_exploring_numerical_data|Exploratory data analysis: numerical data|[L06_2_exploring_numerical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L06_2_exploring_numerical_data.pdf)  
 06|L06_3_exploring_communication|Exploratory data analysis: communication|[L06_3_exploring_communication.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L06_3_exploring_communication.pdf)  
+-->
+
+
+#### Models  
+
+Nr | Lecture | Topic | Slides 
+-- | -- | -- | -- 
 07|L07_1_models_intro|Introduction to modeling|[L07_1_models_intro.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_1_models_intro.pdf)  
 07|L07_2_models_algorithms|Introduction to modeling|[L07_2_models_algorithms.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_2_models_algorithms.pdf)  
 07|L07_3_models_fundamentals|Introduction to modeling|[L07_3_models_fundamentals.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_3_models_fundamentals.pdf)  
 07|L07_4_models_challenges|Introduction to modeling|[L07_4_models_challenges.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_4_models_challenges.pdf)  
 08|L08_1_linear_regression_simple|Regression|[L08_1_linear_regression_simple.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L08_1_linear_regression_simple.pdf)  
 08|L08_2_linear_regression_multiple|Regression|[L08_2_linear_regression_multiple.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L08_2_linear_regression_multiple.pdf)  
+
+<!--
 09|L09_1_logistic_regression|Classification|[L09_1_logistic_regression.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L09_1_logistic_regression.pdf)  
 09|L09_2_classification_intro_wolf|Classification| [L09_2_classification_intro_wolf.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L09_2_classification_intro_wolf.pdf)
 09|L09_3_classification_metrics|Classification|[L09_3_classification_metrics.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L09_3_classification_metrics.pdf)
@@ -47,8 +63,6 @@ Nr | Lecture | Topic | Slides
 13|L13_0_NA|K-nearest-neighbour (classification and regression)|NA
 14|L14_0_NA|Advanced linear regression models|NA
 -->
-
-
 
 
 ### Notebooks
