@@ -1,14 +1,20 @@
 ## Welcome to Applied Analytics
 
 
-**Lectures**
+**Introduction**
 
 Nr | Lecture | Topic | Slides 
 -- | -- | -- | -- 
 00|L00_1_welcome|Welcome|[L00_1_welcome.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L00_1_welcome.pdf)  
-00|L00_2_organisatorisches|Organisatorisches|[L00_2_organisatorisches.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L00_2_organisatorisches.pdf)  
+00|L00_2_organisatorisches|Organisatorisches|[L00_2_organisatorisches.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L00_2_organisatorisches.pdf) 
 00|L00_3_dokumentation|Organisatorisches|[L00_3_dokumentation.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L00_3_dokumentation.pdf)  
-00|L00_4_recherche|Organisatorisches|[L00_4_recherche.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L00_4_recherche.pdf)  
+00|L00_4_recherche|Organisatorisches|[L00_4_recherche.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L00_4_recherche.pdf) 
+
+
+**Lectures**
+
+Nr | Lecture | Topic | Slides 
+-- | -- | -- | -- 
 01|L01_1_analytics_intro|Introduction to data-driven decision making|[L01_1_analytics_intro.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L01_1_analytics_intro.pdf)  
 02|L02_1_dsl_intro|Data science lifecycle|[L02_1_dsl_intro.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L02_1_dsl_intro.pdf)  
 02|L02_2_dsl_plan|Data science lifecycle|[L02_2_dsl_plan.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L02_2_dsl_plan.pdf)  
@@ -17,6 +23,8 @@ Nr | Lecture | Topic | Slides
 04|L04_1_data_basics|Data basics|[L04_1_data_basics.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L04_1_data_basics.pdf)  
 05|L05_1_case_passwords|Exploratory data analysis: categorical data|[L05_1_case_passwords.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L05_1_case_passwords.pdf)  
 05|L05_2_exploring_categorical_data|Exploratory data analysis: categorical data|[L05_2_exploring_categorical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L05_2_exploring_categorical_data.pdf)  
+
+<!--
 05|L05_3_exploring_categorical_data|Exploratory data analysis: categorical data|[L05_3_exploring_categorical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L05_3_exploring_categorical_data.pdf)  
 06|L06_1_exploring_numerical_data|Exploratory data analysis: numerical data|[L06_1_exploring_numerical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L06_1_exploring_numerical_data.pdf)  
 06|L06_2_exploring_numerical_data|Exploratory data analysis: numerical data|[L06_2_exploring_numerical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L06_2_exploring_numerical_data.pdf)  
@@ -38,6 +46,8 @@ Nr | Lecture | Topic | Slides
 12|L12_0_NA|Decision trees (classification and regression)|NA
 13|L13_0_NA|K-nearest-neighbour (classification and regression)|NA
 14|L14_0_NA|Advanced linear regression models|NA
+-->
+
 
 ---
 
@@ -50,6 +60,9 @@ L05_1_case_passwords|passwords|[GitHuB](https://github.com/kirenz/modern-statist
 L05_2_exploring_categorical_data|contingency-table-bar-plot|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)
 L05_2_exploring_categorical_data|two-categorical-variables|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-2-two-categorical-variables.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-2-two-categorical-variables.ipynb)
 L05_2_exploring_categorical_data|row-column-proportions,|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-3-row-column-proportions,.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-3-row-column-proportions,.ipynb)
+
+
+<!--
 L05_2_exploring_categorical_data|pie-charts|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-4-pie-charts.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-4-pie-charts.ipynb)
 L05_2_exploring_categorical_data|waffle-charts|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-5-waffle-charts.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-5-waffle-charts.ipynb)
 L05_3_exploring_categorical_data|comparisons-across-groups|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-6-comparisons-across-groups.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-6-comparisons-across-groups.ipynb)
@@ -73,6 +86,7 @@ L08_2_linear_regression_multiple|b-application-model-tensorflow|[GitHuB](https:/
 L09_1_logistic_regression|logistic-regression|[GitHuB](https://github.com/kirenz/logistic-regression/blob/main/logistic_regression.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/logistic-regression/blob/main/logistic-regression.ipynb)
 L11_2_clustering_k_means|k_means|[GitHuB](https://github.com/kirenz/clustering/blob/main/k_means.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/clustering/blob/main/k_means.ipynb)
 L11_3_clustering_hierarchical|hierarchisch|[GitHuB](https://github.com/kirenz/clustering/blob/main/hierarchisch.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/clustering/blob/main/hierarchisch.ipynb)
+-->
 
 
 ---  
