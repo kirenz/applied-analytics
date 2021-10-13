@@ -12,7 +12,7 @@ Nr | Lecture | Topic | Slides
 
 ### Lectures
 
-#### Data science 
+#### Introduction
 
 Nr | Lecture | Topic | Slides 
 -- | -- | -- | -- 
