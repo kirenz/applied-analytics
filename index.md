@@ -48,7 +48,8 @@ Nr | Lecture | Topic | Slides
 07|L07_3_models_fundamentals|Introduction to modeling|[L07_3_models_fundamentals.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_3_models_fundamentals.pdf)  
 07|L07_4_models_challenges|Introduction to modeling|[L07_4_models_challenges.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_4_models_challenges.pdf)  
 08|L08_1_linear_regression_simple|Regression|[L08_1_linear_regression_simple.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L08_1_linear_regression_simple.pdf)  
-08|L08_2_linear_regression_multiple|Regression|[L08_2_linear_regression_multiple.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L08_2_linear_regression_multiple.pdf)  
+08|L08_2_linear_regression_multiple|Regression|[L08_2_linear_regression_multiple.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L08_2_linear_regression_multiple.pdf) 
+08|linear_regression_intro|Linear regression basics|[linear_regression_basics.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/linear_regression_basics.pdf) 
 
 <!--
 09|L09_1_logistic_regression|Classification|[L09_1_logistic_regression.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L09_1_logistic_regression.pdf)  
