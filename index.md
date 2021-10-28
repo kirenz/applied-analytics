@@ -51,6 +51,8 @@ Nr | Lecture | Topic | Slides
 08|L08_2_linear_regression_multiple|Regression|[L08_2_linear_regression_multiple.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L08_2_linear_regression_multiple.pdf) 
 08|linear_regression_intro|Linear regression basics|[linear_regression_basics.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/linear_regression_basics.pdf) 
 
+- [Jupyter Book about linear regression basics and Python programming](https://kirenz.github.io/linear_regression/1_process.html)
+
 <!--
 09|L09_1_logistic_regression|Classification|[L09_1_logistic_regression.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L09_1_logistic_regression.pdf)  
 09|L09_2_classification_intro_wolf|Classification| [L09_2_classification_intro_wolf.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L09_2_classification_intro_wolf.pdf)
@@ -78,7 +80,7 @@ L05_2_exploring_categorical_data|contingency-table-bar-plot|[GitHuB](https://git
 L05_2_exploring_categorical_data|two-categorical-variables|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-2-two-categorical-variables.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-2-two-categorical-variables.ipynb)
 L05_2_exploring_categorical_data|row-column-proportions|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-3-row-column-proportions,.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-3-row-column-proportions,.ipynb)
 
-[Example of data science process with data exploration and modeling (with R)](https://data-science-tidymodels.netlify.app/)
+- [Example of data science process with data exploration and modeling (with R)](https://data-science-tidymodels.netlify.app/)
 
 <!--
 L05_2_exploring_categorical_data|pie-charts|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-4-pie-charts.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-4-pie-charts.ipynb)
