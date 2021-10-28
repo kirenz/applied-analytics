@@ -51,6 +51,8 @@ Nr | Lecture | Topic | Slides
 08|L08_2_linear_regression_multiple|Regression|[L08_2_linear_regression_multiple.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L08_2_linear_regression_multiple.pdf) 
 08|linear_regression_intro|Linear regression basics|[linear_regression_basics.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/linear_regression_basics.pdf) 
 
+<br>
+
 - [Jupyter Book about linear regression basics and Python programming](https://kirenz.github.io/linear_regression/1_process.html)
 
 <!--
