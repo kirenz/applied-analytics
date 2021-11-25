@@ -53,7 +53,13 @@ Nr | Lecture | Topic | Slides
 
 <br>
 
-- [Jupyter Book about linear regression basics and Python programming](https://kirenz.github.io/linear_regression/1_process.html)
+- [Jupyter Book about linear regression basics and Python programming](https://kirenz.github.io/linear_regression/docs/intro.html)
+
+
+### Cluster analysis
+
+- [Jupyter Book about clustering](https://kirenz.github.io/clustering/intro.html)
+
 
 <!--
 09|L09_1_logistic_regression|Classification|[L09_1_logistic_regression.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L09_1_logistic_regression.pdf)  
