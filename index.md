@@ -21,6 +21,8 @@ Nr | Lecture | Topic | Slides
 02|L02_2_dsl_plan|Data science lifecycle|[L02_2_dsl_plan.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L02_2_dsl_plan.pdf)  
 03|L03_1_data_management_intro|Data management and big data|[L03_1_data_management_intro.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L03_1_data_management_intro.pdf)  
 
+---
+
 #### Data exploration 
 
 - [From Data to Viz](https://www.data-to-viz.com/)
@@ -41,6 +43,7 @@ Nr | Lecture | Topic | Slides
 06|L06_3_exploring_communication|Exploratory data analysis: communication|[L06_3_exploring_communication.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L06_3_exploring_communication.pdf)  
 -->
 
+---
 
 #### Models  
 
@@ -58,18 +61,21 @@ Nr | Lecture | Topic | Slides
 
 - [Jupyter Book about linear regression basics and Python programming](https://kirenz.github.io/linear_regression/docs/intro.html)
 
+---
 
 ### Cluster analysis
 
 - [Jupyter Book about clustering](https://kirenz.github.io/clustering/intro.html)
 
 
+---
+
 ### Classification
 
 
 - Confusion matrix: [Download slides](https://drive.google.com/file/d/136Xm1hiplIkWJFe_t_Wm7R1oUjHPqEVF/view?usp=sharing)
 
-- Performance metrics: Accuracy; recall; precision; F1: [Download slides](https://drive.google.com/file/d/11j4oMjkQjgoarjDXPSUFsUEiAUYY_nGg/view?usp=sharing)
+- Performance metrics: Accuracy; recall; precision; F1: [Download Article](https://drive.google.com/file/d/11j4oMjkQjgoarjDXPSUFsUEiAUYY_nGg/view?usp=sharing)
 
 - Unbalanced data: [Download slides](https://drive.google.com/file/d/1LQqDr_ykos1Aw9Ht80pnbSed_8KSmRMO/view?usp=sharing)
 
@@ -91,6 +97,7 @@ Nr | Lecture | Topic | Slides
 14|L14_0_NA|Advanced linear regression models|NA
 -->
 
+---
 
 ### Notebooks
 
