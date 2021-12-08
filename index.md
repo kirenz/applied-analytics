@@ -23,6 +23,9 @@ Nr | Lecture | Topic | Slides
 
 #### Data exploration 
 
+- [From Data to Viz](https://www.data-to-viz.com/)
+
+
 Nr | Lecture | Topic | Slides 
 -- | -- | -- | -- 
 04|L04_1_case_study_stents|First data analysis: case study stents|[L04_1_case_study_stents.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L04_1_case_study_stents.pdf)  
