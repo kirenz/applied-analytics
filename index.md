@@ -61,6 +61,19 @@ Nr | Lecture | Topic | Slides
 - [Jupyter Book about clustering](https://kirenz.github.io/clustering/intro.html)
 
 
+### Classification
+
+
+- Confusion matrix: [Download slides](https://drive.google.com/file/d/136Xm1hiplIkWJFe_t_Wm7R1oUjHPqEVF/view?usp=sharing)
+
+- Performance metrics: Accuracy; recall; precision; F1: [Download slides](https://drive.google.com/file/d/11j4oMjkQjgoarjDXPSUFsUEiAUYY_nGg/view?usp=sharing)
+
+- Unbalanced data: [Download slides](https://drive.google.com/file/d/1LQqDr_ykos1Aw9Ht80pnbSed_8KSmRMO/view?usp=sharing)
+
+- [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+- [Google People + AI Research: Attacking discrimination with smarter machine learning](https://research.google.com/bigpicture/attacking-discrimination-in-ml/)
+
 <!--
 09|L09_1_logistic_regression|Classification|[L09_1_logistic_regression.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L09_1_logistic_regression.pdf)  
 09|L09_2_classification_intro_wolf|Classification| [L09_2_classification_intro_wolf.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L09_2_classification_intro_wolf.pdf)
