@@ -65,13 +65,13 @@ Nr | Lecture | Topic | Slides
 
 <br>
 
-- [Jupyter Book about linear regression](https://kirenz.github.io/linear_regression/docs/intro.html)
+> [Jupyter Book about linear regression](https://kirenz.github.io/linear_regression/docs/intro.html)
 
 ---
 
 ### Cluster analysis
 
-- [Jupyter Book about clustering](https://kirenz.github.io/clustering/intro.html)
+> [Jupyter Book about clustering](https://kirenz.github.io/clustering/intro.html)
 
 
 ---
@@ -97,6 +97,8 @@ Nr | Lecture | Topic | Slides
 
 - Reading: [Introduction to Modern Statistics 9](https://openintro-ims.netlify.app/model-logistic.html)
 
+
+> [Jupyter Book about Classification](https://kirenz.github.io/classification/docs/intro.html)
 
 
 <!--
