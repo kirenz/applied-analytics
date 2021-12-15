@@ -1,7 +1,7 @@
-## Welcome to Applied Analytics
+Welcome to Applied Analytics
 
 
-### Course information
+## Course information
 
 Nr | Lecture | Topic | Slides 
 -- | -- | -- | -- 
@@ -10,9 +10,9 @@ Nr | Lecture | Topic | Slides
 00|L00_4_recherche|Organisatorisches|[L00_4_recherche.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L00_4_recherche.pdf) 
 
 
-### Lectures
+## Lectures
 
-#### Introduction
+### Introduction
 
 Nr | Lecture | Topic | Slides 
 -- | -- | -- | -- 
@@ -23,7 +23,7 @@ Nr | Lecture | Topic | Slides
 
 ---
 
-#### Data exploration 
+### Data exploration 
 
 - [From Data to Viz](https://www.data-to-viz.com/)
 
@@ -45,7 +45,7 @@ Nr | Lecture | Topic | Slides
 
 ---
 
-#### Models  
+### Models intro 
 
 Nr | Lecture | Topic | Slides 
 -- | -- | -- | -- 
@@ -53,13 +53,16 @@ Nr | Lecture | Topic | Slides
 07|L07_2_models_algorithms|Introduction to modeling|[L07_2_models_algorithms.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_2_models_algorithms.pdf)  
 07|L07_3_models_fundamentals|Introduction to modeling|[L07_3_models_fundamentals.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_3_models_fundamentals.pdf)  
 07|L07_4_models_challenges|Introduction to modeling|[L07_4_models_challenges.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L07_4_models_challenges.pdf)  
+
+### Regression
+
 08|L08_1_linear_regression_simple|Regression|[L08_1_linear_regression_simple.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L08_1_linear_regression_simple.pdf)  
 08|L08_2_linear_regression_multiple|Regression|[L08_2_linear_regression_multiple.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L08_2_linear_regression_multiple.pdf) 
 08|linear_regression_intro|Linear regression basics|[linear_regression_basics.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/linear_regression_basics.pdf) 
 
 <br>
 
-- [Jupyter Book about linear regression basics and Python programming](https://kirenz.github.io/linear_regression/docs/intro.html)
+- [Jupyter Book about linear regression](https://kirenz.github.io/linear_regression/docs/intro.html)
 
 ---
 
@@ -82,6 +85,16 @@ Nr | Lecture | Topic | Slides
 - [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 - [Google People + AI Research: Attacking discrimination with smarter machine learning](https://research.google.com/bigpicture/attacking-discrimination-in-ml/)
+
+- Logistic regression: [Download slides](https://docs.google.com/presentation/d/19ke933Dxkpc9_fmdIK92mw09lY37bqK4GkJXkYjdeiY/export/pdf)
+
+- Colab: [Logistic regression world happiness report](https://colab.research.google.com/github/kirenz/applied-statistics/blob/main/docs/cl-logistic-whr.ipynb)
+
+- [Code Tutorial Credit default](https://kirenz.github.io/classification/docs/logistic.html#)
+
+- Reading: [Introduction to Modern Statistics 9](https://openintro-ims.netlify.app/model-logistic.html)
+
+
 
 <!--
 09|L09_1_logistic_regression|Classification|[L09_1_logistic_regression.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L09_1_logistic_regression.pdf)  
