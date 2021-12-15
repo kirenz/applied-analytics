@@ -91,11 +91,6 @@ Nr | Lecture | Topic | Slides
 
 - Logistic regression: [Download slides](https://docs.google.com/presentation/d/19ke933Dxkpc9_fmdIK92mw09lY37bqK4GkJXkYjdeiY/export/pdf)
 
-- Colab: [Logistic regression world happiness report](https://colab.research.google.com/github/kirenz/applied-statistics/blob/main/docs/cl-logistic-whr.ipynb)
-
-- [Code Tutorial Credit default](https://kirenz.github.io/classification/docs/logistic.html#)
-
-- Reading: [Introduction to Modern Statistics 9](https://openintro-ims.netlify.app/model-logistic.html)
 
 
 > [Jupyter Book about Classification](https://kirenz.github.io/classification/docs/intro.html)
