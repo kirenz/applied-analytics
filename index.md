@@ -110,6 +110,11 @@ Nr | Lecture | Topic | Slides
 14|L14_0_NA|Advanced linear regression models|NA
 -->
 
+### Alternative methods
+
+- [Recommendation Systems](https://kirenz.github.io/recommender/docs/intro.html)
+- [Association Rule Mining](https://www.kirenz.com/post/2020-05-14-r-association-rule-mining/)
+
 ---
 
 ### Notebooks
