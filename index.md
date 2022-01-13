@@ -65,7 +65,7 @@ Nr | Lecture | Topic | Slides
 
 <br>
 
-> [Jupyter Book about linear regression](https://kirenz.github.io/linear_regression/docs/intro.html)
+> [Jupyter Book about linear regression](https://kirenz.github.io/regression/docs/intro.html)
 
 ---
 
